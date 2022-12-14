@@ -1,0 +1,26 @@
+id: I64656C57
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:17:54.775655+00:00
+last_modified: 2022-12-14 18:17:54.775662+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-094-006
+  eft-text-version: 1.1.4 2021
+  title: Toh_729-Dh%C4%81ra%E1%B9%87%C4%AB_of_T%C4%81r%C4%81-v2
+bases:
+  D01D:
+    source_metadata: null
+    order: 1
+    base_file: D01D.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
